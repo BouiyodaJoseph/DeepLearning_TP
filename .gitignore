@@ -1,0 +1,11 @@
+# Environnement virtuel Python
+env/
+
+# Fichiers de modèle
+*.h5
+
+# Dossiers de cache Python
+__pycache__/
+
+# Dossiers d'éditeur de code (exemple pour VSCode)
+.vscode/
