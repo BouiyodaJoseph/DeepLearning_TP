@@ -1,0 +1,20 @@
+artifact_path: file:///C:/Users/DELL/Documents/bioo/5GI/deeplearning/projet%20DL/TP1/mlruns/0/models/m-e4f72605c60d4744bded09a4b08ed2e6/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.3
+mlflow_version: 3.6.0
+model_id: m-e4f72605c60d4744bded09a4b08ed2e6
+model_size_bytes: 4907225
+model_uuid: m-e4f72605c60d4744bded09a4b08ed2e6
+prompts: null
+run_id: 5e76d8f6247446d0a192af8fb7bbe23f
+utc_time_created: '2025-11-18 00:04:04.219376'

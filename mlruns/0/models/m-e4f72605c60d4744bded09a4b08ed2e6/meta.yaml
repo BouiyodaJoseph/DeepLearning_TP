@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DELL/Documents/bioo/5GI/deeplearning/projet%20DL/TP1/mlruns/0/models/m-e4f72605c60d4744bded09a4b08ed2e6/artifacts
+creation_timestamp: 1763424239610
+experiment_id: '0'
+last_updated_timestamp: 1763424312424
+model_id: m-e4f72605c60d4744bded09a4b08ed2e6
+model_type: null
+name: mnist-model
+source_run_id: 5e76d8f6247446d0a192af8fb7bbe23f
+status: 2
+status_message: null

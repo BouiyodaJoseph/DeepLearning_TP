@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL/Documents/bioo/5GI/deeplearning/projet%20DL/TP1/mlruns/0/5e76d8f6247446d0a192af8fb7bbe23f/artifacts
+end_time: 1763424312463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e76d8f6247446d0a192af8fb7bbe23f
+run_name: masked-fawn-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763424203779
+status: 3
+tags: []
+user_id: DELL
