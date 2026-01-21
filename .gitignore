@@ -1,11 +1,26 @@
-# Environnement virtuel Python
+
+
+# Ignorer l'environnement virtuel Python
 env/
 
-# Fichiers de modèle
+# Ignorer les dossiers de cache Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers et dossiers générés par MLflow
+mlruns/
+mlflow.db
+
+# Ignorer les fichiers de modèle volumineux (bonne pratique)
 *.h5
+*.keras
+
+# Ignorer les dossiers de configuration des éditeurs de code
+.vscode/
+.idea/
+
+# Ignorer les fichiers générés par les notebooks (si vous en utilisez)
+.ipynb_checkpoints
 
 # Dossiers de cache Python
 __pycache__/
-
-# Dossiers d'éditeur de code (exemple pour VSCode)
-.vscode/

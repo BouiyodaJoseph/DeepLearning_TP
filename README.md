@@ -8,3 +8,5 @@ L'objectif est de couvrir l'ensemble du cycle de vie d'un modèle de Deep Learni
 
 - **Partie 1 :** Entraînement d'un réseau de neurones sur le jeu de données MNIST avec Keras/TensorFlow.
 - **Partie 2 :** Mise en place du versionnement avec Git, du suivi d'expérimentations avec MLflow et du déploiement via une API Flask conteneurisée avec Docker.
+
+.\env\Scripts\activate
