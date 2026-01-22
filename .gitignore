@@ -1,0 +1,12 @@
+# Environnement virtuel
+env/
+
+# Fichiers et dossiers MLflow
+mlruns/
+mlflow.db
+
+# Dossiers de cache Python
+__pycache__/
+
+# Dossiers d'éditeur de code
+.vscode/
